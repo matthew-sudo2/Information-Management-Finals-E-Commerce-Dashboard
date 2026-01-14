@@ -1,7 +1,5 @@
 # Project Structure Guide
 
-This document maps each folder/file to its purpose so the team can navigate quickly and verify deliverables for the Information Management System criteria.
-
 ## High-level layout
 
 ```
